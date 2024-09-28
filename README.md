@@ -2,7 +2,21 @@
 <h3 align="center">A Backend PHP Web Developer</h3>
 
 I am a mid-senior backend developer with over 2 years of experience specializing in PHP and the Laravel framework. I am passionate about creating robust, scalable, and efficient web applications that deliver exceptional user experiences. My expertise includes developing and maintaining server-side logic, integrating APIs, and optimizing database performance.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed99ragab&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed99ragab" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed99ragab" alt="mohamed99ragab" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🌱 I’m currently learning **Vue.js & Livewire**
+
+- 😉 Hire me ? [linkedin](https://www.linkedin.com/in/mohamed-ragab-programmer/)
+
+- 👨‍💻 All of my projects are available at [https://elgwile.tech/](https://elgwile.tech/)
+
+- 📫 How to reach me **mohamed.ragab.lara@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/13igpUiTbONNLclSOTQrZk56pEJI3AjqG/view?usp=drive_link](https://drive.google.com/file/d/13igpUiTbONNLclSOTQrZk56pEJI3AjqG/view?usp=drive_link)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mohamedragabelgwile) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohamed-ragab-programmer/) 
