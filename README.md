@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ragab</h1>
 <h3 align="center">A Backend PHP Web Developer</h3>
-# 💫 About Me:
+
 I am a mid-senior backend developer with over 2 years of experience specializing in PHP and the Laravel framework. I am passionate about creating robust, scalable, and efficient web applications that deliver exceptional user experiences. My expertise includes developing and maintaining server-side logic, integrating APIs, and optimizing database performance.
 
 
