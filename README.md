@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ragab</h1>
 <h3 align="center">A Backend PHP Web Developer</h3>
 
-I am a mid-senior backend developer with over 2 years of experience specializing in PHP and the Laravel framework. I am passionate about creating robust, scalable, and efficient web applications that deliver exceptional user experiences. My expertise includes developing and maintaining server-side logic, integrating APIs, and optimizing database performance.
+I am a backend developer with over 2 years of experience specializing in PHP and the Laravel framework. I am passionate about creating robust, scalable, and efficient web applications that deliver exceptional user experiences. My expertise includes developing and maintaining server-side logic, integrating APIs, and optimizing database performance.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed99ragab&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed99ragab" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed99ragab" alt="mohamed99ragab" /></a> </p>
